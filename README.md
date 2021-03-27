@@ -23,7 +23,7 @@ Telegram: [@hanhan23333](https://t.me/hanhan23333) .
 
 E-Mail:hanhan.233@qq.com
 
-# You can get more details at [Here](https://han-han.xyz/about/)
+# You can get more details from [Here](https://han-han.xyz/about/)
 
 <!---
 HanHan233/HanHan233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
