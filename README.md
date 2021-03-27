@@ -17,9 +17,9 @@ I lives in a small city of Guangdong.
    ![](https://img.shields.io/badge/-C%2b%2b-cc961c?style=flat-square&logo=C%2b%2b&logoColor=fff) 
    ![](https://img.shields.io/badge/-C-FFC0CB?style=flat-square&logo=C&logoColor=fff) 
 # How to reach me
-My Blog: han-han.xyz .
+My Blog: [han-han.xyz](https://han-han.xyz/) .
 
-Telegram: @hanhan23333 .
+Telegram: [@hanhan23333](https://t.me/hanhan23333) .
 
 E-Mail:hanhan.233@qq.com
 
