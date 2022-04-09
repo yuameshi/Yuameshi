@@ -6,7 +6,7 @@ I'm a student from senior high school.
 
 I'm just a rubbish.
 
-HanHan is what I call myself (but I think I don't really deserve it). 
+You can call me `Yuameshi` or `由雨糸`
 
 I lives in a small city of Guangdong.
 
@@ -14,9 +14,9 @@ I lives in a small city of Guangdong.
 
 # GitHub Status
 
-   ![](https://github-readme-stats.vercel.app/api?username=HanHan233&layout=compact&show_icons=true&count_private=true)
+   ![](https://github-readme-stats.vercel.app/api?username=Yuameshi&layout=compact&show_icons=true&count_private=true)
    
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HanHan233&layout=compact&show_icons=true&count_private=true)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuameshi&layout=compact&show_icons=true&count_private=true)
 
 # Something I Can Do
    ![](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
