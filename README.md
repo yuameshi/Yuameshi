@@ -1,4 +1,6 @@
 👋 Hi there!
+
+> If you’ve come to my GitHub profile from my resume and would like to view my private projects, please contact me at the email address listed on my resume. Please include the project name(s) you’d like to view along with your email address, and I’ll add you to the list of contributors.
 <!--
 # GitHub Status
 
